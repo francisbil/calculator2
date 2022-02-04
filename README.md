@@ -1,1 +1,3 @@
-# calculator2
+# Calculator
+
+Simple Python calculator
